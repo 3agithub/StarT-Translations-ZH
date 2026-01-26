@@ -1,15 +1,15 @@
 {
-  "block.xycraft_world.aluminum_storage": "",
-  "block.xycraft_world.aluminum_bricks_cloud": "",
-  "block.xycraft_world.aluminum_bricks_cloud_blue": "",
-  "block.xycraft_world.aluminum_bricks_cloud_red": "",
-  "block.xycraft_world.aluminum_bricks_cloud_green": "",
-  "block.xycraft_world.aluminum_bricks_cloud_light": "",
-  "block.xycraft_world.aluminum_bricks_cloud_dark": "",
-  "block.xycraft_world.aluminum_tiles_cloud": "",
-  "block.xycraft_world.aluminum_tiles_cloud_blue": "",
-  "block.xycraft_world.aluminum_tiles_cloud_red": "",
-  "block.xycraft_world.aluminum_tiles_cloud_green": "",
-  "block.xycraft_world.aluminum_tiles_cloud_light": "",
-  "block.xycraft_world.aluminum_tiles_cloud_dark": ""
+  "block.xycraft_world.aluminum_storage": "鋁合方解石平滑石磚",
+  "block.xycraft_world.aluminum_bricks_cloud": "鋁方解石磚",
+  "block.xycraft_world.aluminum_bricks_cloud_blue": "藍色鋁方解石磚",
+  "block.xycraft_world.aluminum_bricks_cloud_red": "紅色鋁方解石磚",
+  "block.xycraft_world.aluminum_bricks_cloud_green": "綠色鋁方解石磚",
+  "block.xycraft_world.aluminum_bricks_cloud_light": "淺鋁方解石磚",
+  "block.xycraft_world.aluminum_bricks_cloud_dark": "暗鋁方解石磚",
+  "block.xycraft_world.aluminum_tiles_cloud": "鋁方解石瓦",
+  "block.xycraft_world.aluminum_tiles_cloud_blue": "藍色鋁方解石瓦",
+  "block.xycraft_world.aluminum_tiles_cloud_red": "紅色鋁方解石瓦",
+  "block.xycraft_world.aluminum_tiles_cloud_green": "綠色鋁方解石瓦",
+  "block.xycraft_world.aluminum_tiles_cloud_light": "淺鋁方解石瓦",
+  "block.xycraft_world.aluminum_tiles_cloud_dark": "暗鋁方解石瓦"
 }
