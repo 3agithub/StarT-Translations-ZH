@@ -409,7 +409,7 @@
   "material.gtceu.shining_muon_infusion_flux": "耀光§aμ子§r注能通量",
   "material.gtceu.radiant_muon_infusion_flux": "炫彩§aμ子§r注能通量",
   "material.gtceu.brilliant_muon_infusion_flux": "卓越§aμ子§r注能通量",
-  "material.gtceu.mono_phase_electron_infusion_flux": "月相§d电子§r注能通量",
+  "material.gtceu.mono_phase_electron_infusion_flux": "单相§d电子§r注能通量",
   "material.gtceu.di_phase_electron_infusion_agent": "双相§d电子§r注能剂",
   "material.gtceu.tri_phase_electron_infusion_agent": "三相§d电子§r注能剂",
   "material.gtceu.weak_gamma_phase_electron_infusion_agent": "弱γ-相§d电子§r注能剂",
