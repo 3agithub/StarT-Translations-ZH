@@ -863,7 +863,7 @@
   "block.gtceu.super_compact_heat_chamber.tooltip.1": "可使用§3并行§r控制仓，支持§b吞吐量提升§r和§c亚时间刻并行",
   "block.gtceu.kiln": "窑炉",
   "gtceu.kiln": "窑炉",
-  "block.gtceu.kiln.tooltip.0": "§7一种更强、更耐用的篝火，满足你的生产需求。",
+  "block.gtceu.kiln.tooltip.0": "§7一种更强、更耐用的营火，满足你的生产需求。",
   "block.gtceu.steam_kiln": "蒸汽窑炉",
   "gtceu.steam_kiln": "蒸汽窖炉",
   "block.gtceu.steam_kiln.tooltip.0": "§7一个带有总线和蒸汽并行的窖炉。",
