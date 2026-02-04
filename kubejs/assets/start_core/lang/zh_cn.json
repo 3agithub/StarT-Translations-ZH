@@ -285,7 +285,7 @@
   "start_core.machine.abyssal_harvester.ah2": "§7该机器§f每5秒增加0.55%§7的深渊饱和度，最大增加到§f120.00%§7。",
   "start_core.machine.abyssal_harvester.ah3": "§7运行配方会降低§f5.00%§7当前饱和度。",
   "start_core.machine.abyssal_harvester.ah4": "§6深渊稳定度：",
-  "start_core.machine.abyssal_harvester.ah5": "§7当饱和度与§f22.50%，52.50%或82.50%§7的绝对差不超过§f5.00%§7时，获得免费的2x并行。",
+  "start_core.machine.abyssal_harvester.ah5": "§7当饱和度与§f22.50%，52.50%或82.50%§7的绝对差不超过§f5.00%§7时，获得免费的2倍并行。",
   "start_core.machine.abyssal_harvester.ah6": "§7对于特定的n，提供§f当前饱和度与n的百分比§7的指示器。",
   "ui.start_core.abyssal_harvester": "深渊饱和度：§5%s%%",
   "start_core.recipe.min_saturation": "最小饱和度：§5%s",
