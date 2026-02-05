@@ -498,7 +498,7 @@
   "block.kubejs.husk_of_the_flame": "§7烈焰之余烬",
   "block.kubejs.husk_brick": "§7余烬砖块",
   "block.kubejs.cryostone": "冰晶石",
-  "block.kubejs.brimstone": "硫磺",
+  "block.kubejs.brimstone": "火硫石",
   "block.kubejs.void_saturation_sponge": "虚无饱和海绵",
   "block.kubejs.beryllium_aluminium_alloy_casing": "铍铝合金机械方块",
   "block.kubejs.birmabright_casing": "闪耀合金机械方块",
@@ -532,7 +532,7 @@
   "block.kubejs.extreme_temperature_smelting_casing": "极端温度冶炼机械方块",
   "block.kubejs.subzero_casing": "零下机械方块",
   "block.kubejs.reinforced_cryostone_casing": "强化冰晶石机械方块",
-  "block.kubejs.reinforced_brimstone_casing": "强化硫磺机械方块",
+  "block.kubejs.reinforced_brimstone_casing": "强化火硫石机械方块",
   "block.kubejs.draneko_casing": "龙猫机械方块",
   "block.kubejs.abyssal_drill_1": "秘银合金采掘机械方块",
   "block.kubejs.abyssal_drill_2": "星能合金采掘机械方块"
